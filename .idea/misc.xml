@@ -3,11 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/E2772/AndroidStudioProjects/TestAlefApp/app/src/main/res/layout-sw600dp/fragment_gallery.xml" value="0.1" />
-        <entry key="..\:/Users/E2772/AndroidStudioProjects/TestAlefApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Users/E2772/AndroidStudioProjects/TestAlefApp/app/src/main/res/layout/fragment_gallery.xml" value="0.10287303058387395" />
-        <entry key="..\:/Users/E2772/AndroidStudioProjects/TestAlefApp/app/src/main/res/layout/fragment_image.xml" value="0.10194624652455977" />
-        <entry key="..\:/Users/E2772/AndroidStudioProjects/TestAlefApp/app/src/main/res/layout/image_item.xml" value="0.1" />
+        <entry key="..\:/Users/Turins/AndroidStudioProjects/TestAlefApp/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Turins/AndroidStudioProjects/TestAlefApp/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="..\:/Users/Turins/AndroidStudioProjects/TestAlefApp/app/src/main/res/layout/fragment_image.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
